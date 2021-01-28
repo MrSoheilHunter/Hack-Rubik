@@ -1,8 +1,8 @@
 # Hack-Rubik
 
-#`Im Black HunTer`
+#Im Black HunTer
 
-#`Mr Soheil HunTer`
+#Mr Soheil HunTer
 
 `pkg install git`
 
